@@ -26,3 +26,5 @@ chroma_db/
 Thumbs.db
 SETUP.md
 run.sh
+faiss_index.bin
+faiss_meta.pkl
